@@ -10,7 +10,7 @@ I'm a 3rd year CS student @ Western University in London, Ontario, Canada
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterchen7&layout=compact&show_icons=true&hide_border=false&bg_color=0D1116&border_color=2E353A&icon_color=ebcb8b&title_color=0267D6&text_color=0267D6&hide=jupyter%20notebook,TeX,css,scss)
 
-
+<!--
 I've also worked with:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -34,7 +34,7 @@ I've also worked with:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+-->
 Connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunterchen/)
