@@ -1,7 +1,6 @@
-### Hello there! I'm Hunter👋
+### Hello there!👋
 
-Welcome to my GitHub page! 
-I'm a 3rd year CS student @ Western University in London, ON, Canada
+My name is Hunter. I'm a 3rd year CS student @ Western University in London, ON, Canada
 
 - ✏️ I’m currently working on [WaveFormer 🌊](https://github.com/hunterchen7/WaveFormer), a Rust program that turns images into parametric equations!
 - 🔭 I'm currently seeking a software development/engineering internship for Summer 2024
