@@ -7,7 +7,7 @@ My name is Hunter. I'm a 3rd year CS student @ Western University in London, ON,
 
 <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunterchen7&theme=github_dark" />
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterchen7&layout=compact&show_icons=true&hide_border=false&bg_color=0D1116&border_color=2E353A&icon_color=ebcb8b&title_color=0267D6&text_color=0267D6&hide=jupyter%20notebook,TeX,css,scss,html)
+![top languages](https://camo.githubusercontent.com/e09c909ab9bdb92d8bd01d6cd226177a10afbd9f060854be62ab57e6bec3bf8c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68756e7465726368656e37266c61796f75743d636f6d706163742673686f775f69636f6e733d7472756526686964655f626f726465723d66616c73652662675f636f6c6f723d30443131313626626f726465725f636f6c6f723d3245333533412669636f6e5f636f6c6f723d656263623862267469746c655f636f6c6f723d30323637443626746578745f636f6c6f723d30323637443626686964653d6a7570797465722532306e6f7465626f6f6b2c5465582c6373732c736373732c48544d4c2c)
 
 <!--
 I've also worked with:
