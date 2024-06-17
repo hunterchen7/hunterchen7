@@ -2,7 +2,8 @@
 
 My name is Hunter. I'm a 3rd year CS student @ Western University in London, ON, Canada
 
-- ✏️ I’m currently working on [WaveFormer 🌊](https://github.com/hunterchen7/WaveFormer), a Rust program that turns images into parametric equations!
+- ✏️ I’m currently working on [WaveFormer 🌊](https://github.com/hunterchen7/WaveFormer), a Rust program that turns images into parametric equations
+- 📜 I'm also working on [HAL](https://github.com/hunterchen7/hal), a simple programming language.
 - 🔭 I'm currently seeking a software development/engineering internship for Summer 2025
 
 <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunterchen7&theme=github_dark" />
