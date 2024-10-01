@@ -1,6 +1,6 @@
 ### Hello there!👋
 
-My name is Hunter. I'm a 3rd year CS student @ Western University in London, ON, Canada
+My name is Hunter. I'm a CS undergrad @ Western University.
 
 I like working on cool stuff. Currently learning Rust :crab:.
 
