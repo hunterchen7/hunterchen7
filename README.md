@@ -2,7 +2,7 @@
 
 My name is Hunter. I'm a CS undergrad @ Western University.
 
-I like working on cool stuff. Currently learning Rust :crab:.
+I like working on cool stuff. Frontend @ [geneialco](https://www.geneial.com/) and web team lead @ [hackwestern](https://www.hackwestern.com/)
 
 <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunterchen7&theme=github_dark" />
 
