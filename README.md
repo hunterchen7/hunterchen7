@@ -1,8 +1,3 @@
-### Hello there!👋
-
-My name is Hunter. 
-
-I'm currently doing frontend @ [Geneial](https://www.geneial.com/) and leading the web team @ [Hack Western](https://github.com/hackwestern/hackwestern)
 
 <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunterchen7&theme=github_dark" />
 
