@@ -1,8 +1,6 @@
 
 <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hunterchen7&theme=github_dark" />
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterchen7&layout=compact&show_icons=true&hide_border=false&bg_color=0D1116&border_color=2E353A&icon_color=ebcb8b&title_color=0267D6&text_color=0267D6&hide=jupyter%20notebook,TeX,css,scss,HTML,javascript)
-
 <!--
 I've also worked with:
 
